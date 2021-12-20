@@ -35,7 +35,7 @@ We then looked at historical risk and volatility utilizing box plots, and rollin
 Combining both returns and volatility, we then calculated a Sharpe Ratio for each fund to determine which fund has performed the best on a risk-adjusted basis:
 
 
-![chart_4](images/chart_4.PNG)
+![chart_4](images/chart4.PNG)
 
 
 Finally, we selected the top two performing funds, and reviewed their historical beta relative to the S&P 500:
